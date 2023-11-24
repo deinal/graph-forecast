@@ -1,3 +1,3 @@
 # graph-forecast
 
-![](train_predictions.gif)
+![](test_predictions.gif)
